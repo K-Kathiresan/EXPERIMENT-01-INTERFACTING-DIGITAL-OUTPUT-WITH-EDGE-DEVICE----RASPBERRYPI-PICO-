@@ -2,7 +2,7 @@
 ### NAME : KATHIRESAN K
 ### DEPARTMENT : CSE(IoT)
 ### ROLL NO :212223110021
-### DATE OF EXPERIMENT :
+### DATE OF EXPERIMENT :30.08.2025
 
 ### AIM
 To interface a digital output device (LED) with the Raspberry Pi Pico and control it using MicroPython.
